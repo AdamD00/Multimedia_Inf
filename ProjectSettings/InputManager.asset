@@ -87,12 +87,12 @@ InputManager:
     joyNum: 0
   - serializedVersion: 3
     m_Name: Jump
-    descriptiveName: 
+    descriptiveName: Jump
     descriptiveNegativeName: 
-    negativeButton: 
+    negativeButton: space
     positiveButton: space
-    altNegativeButton: 
-    altPositiveButton: 
+    altNegativeButton: w
+    altPositiveButton: up
     gravity: 1000
     dead: 0.001
     sensitivity: 1000
@@ -234,7 +234,7 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: joystick button 3
+    positiveButton: w
     altNegativeButton: 
     altPositiveButton: 
     gravity: 1000
@@ -485,3 +485,4 @@ InputManager:
     type: 2
     axis: 5
     joyNum: 0
+  m_UsePhysicalKeys: 1
